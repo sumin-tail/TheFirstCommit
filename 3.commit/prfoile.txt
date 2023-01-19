@@ -1,2 +1,2 @@
-email : lavaster@naver.com
+email : lavaster@naver.com 
 gitID : sumin-tail 
